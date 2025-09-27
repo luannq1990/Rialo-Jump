@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background: #111;
+}
+
+canvas {
+  display: block;
+  margin: auto;
+  background: url("assets/background.jpg") repeat-x;
+  background-size: cover;
+}
